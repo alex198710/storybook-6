@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots MyCard Cas par défaut 1`] = `
+<div
+  className="card"
+  style={
+    Object {
+      "backgroundColor": "#fff",
+      "width": "18rem",
+    }
+  }
+>
+  <div
+    className="card-body"
+  >
+    <h5
+      className="card-title"
+    >
+      Card titles
+    </h5>
+    <p
+      className="card-text"
+    >
+      Some quick example text to build on the card title and make up the bulk of the card&#39;s content.
+    </p>
+    <a
+      className="btn btn-primary"
+      href="/"
+      onClick={[Function]}
+    >
+      Go somewhere
+    </a>
+  </div>
+</div>
+`;
