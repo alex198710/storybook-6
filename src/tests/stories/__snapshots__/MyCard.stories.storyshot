@@ -1,11 +1,11 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Storyshots MyCard Cas par défaut 1`] = `
+exports[`Storyshots Example/MyCard Default 1`] = `
 <div
   className="card"
   style={
     Object {
-      "backgroundColor": "#fff",
+      "backgroundColor": undefined,
       "width": "18rem",
     }
   }
@@ -21,7 +21,7 @@ exports[`Storyshots MyCard Cas par défaut 1`] = `
     <p
       className="card-text"
     >
-      Some quick example text to build on the card title and make up the bulk of the card&#39;s content.
+      Some quick example text to build on the card title and make up the bulk of the card's content.
     </p>
     <a
       className="btn btn-primary"

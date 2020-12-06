@@ -1,7 +1,6 @@
 import initStoryshots from '@storybook/addon-storyshots';
 import { imageSnapshot } from '@storybook/addon-storyshots-puppeteer';
-
-const { devicesMap } = require('puppeteer/lib/cjs/common/DeviceDescriptors');
+const { devicesMap } = require('puppeteer/lib/cjs/puppeteer/common/DeviceDescriptors');
 const iPhone = devicesMap['iPhone 6'];
 
 function customizePage(page: any) {
